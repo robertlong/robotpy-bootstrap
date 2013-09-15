@@ -1,0 +1,3 @@
+[submodule "fake-wpilib"]
+	path = fake-wpilib
+	url = https://github.com/robotpy/fake-wpilib.git
